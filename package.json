@@ -1,0 +1,8 @@
+{
+  "name": "ironclad-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
